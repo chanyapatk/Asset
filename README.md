@@ -15,10 +15,10 @@
 
 ## สารบัญ
 
-1. [ขนาดของกลุ่มผู้กู้สินเชื่อบ้าน และเหตุผลที่ควรสนใจ](#mortgage-overview)
-2. [โอกาสจากรายได้และภาระหนี้ของผู้กู้](#mortgage-opportunity)
-3. [ผู้กู้กลุ่มไหนที่ควรให้ความสนใจ](#priority-segment)
-4. [ทำความรู้จักกลุ่มเป้าหมาย](#borrower-profile)
+1. [How Large Is the Mortgage Customer Segment — and Why Should We Care?](#mortgage-overview)
+2. [WHY MORTGAGE CUSTOMERS ARE GOOD OPPORTUNITY](#mortgage-opportunity)
+3. [WHICH MORTGAGE BORROWERS SHOULD WE FOCUS ON?](#priority-segment)
+4. [ทWHO ARE WE FOCUSING ON?](#borrower-profile)
 
 ---
 
