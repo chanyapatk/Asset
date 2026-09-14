@@ -26,11 +26,4 @@ These files contain mortgage-level records for single-family properties and incl
 4. Download the **CSV** version.
 5. Use the Fannie Mae and Freddie Mac files listed above for the analysis.
 
-## Repository Data Policy
-
-To keep this repository lightweight and reproducible:
-
-- Large raw files are kept outside GitHub and downloaded from the official FHFA source.
-- Only smaller cleaned, sampled, or processed datasets may be added to this folder when needed.
-- Any processed file added later should include a short description of how it was created from the original FHFA data.
 
