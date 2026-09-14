@@ -8,15 +8,16 @@
 **ถ้าเรามองผู้กู้สินเชื่อบ้านไม่ใช่แค่ในฐานะ “คนที่มีหนี้บ้าน” แต่เป็นกลุ่มคนที่มีสถานะทางการเงินแตกต่างกัน เราจะค้นพบโอกาสทางการตลาดอะไรได้บ้าง?**
 ---
 
-## Contents 
+## Contents
 
-1. [HOW LARGE IS THE MORTGAGE CUSTOMER SEGMENT - AND WHY SHOULD WE CARE?](#mortgage-overview)
-2. [WHY MORTGAGE CUSTOMERS ARE GOOD OPPORTUNITY](#mortgage-opportunity)
-3. [WHICH MORTGAGE BORROWERS SHOULD WE FOCUS ON?](#priority-segment)
-4. [WHO ARE WE FOCUSING ON?](#borrower-profile)
-
+1. [OVERVIEW](#overview)
+2. [HOW LARGE IS THE MORTGAGE CUSTOMER SEGMENT - AND WHY SHOULD WE CARE?](#mortgage-overview)
+3. [WHY MORTGAGE CUSTOMERS ARE GOOD OPPORTUNITY](#mortgage-opportunity)
+4. [WHICH MORTGAGE BORROWERS SHOULD WE FOCUS ON?](#priority-segment)
+5. [WHO ARE WE FOCUSING ON?](#borrower-profile)
+6. [INSIGHT]
 ---
-
+<a name="overview"></a>
 ## Overview
 
 เพื่อสำรวจว่า กลุ่มผู้กู้สินเชื่อบ้านอาจนำไปสู่โอกาสทางการตลาดอะไรได้บ้าง เราใช้ข้อมูลจาก **Public Use Database ของ Federal Housing Finance Agency (FHFA)** ประเทศสหรัฐอเมริกา
