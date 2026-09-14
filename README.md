@@ -40,7 +40,7 @@
 บางคนอาจมีภาระหนี้คิดเป็นสัดส่วนสูงเมื่อเทียบกับรายได้ ขณะที่บางคนมีภาระต่ำกว่า หรือมีฐานรายได้สูง
 เราจึงลองมองผู้กู้ผ่านสองมิติพื้นฐานก่อน คือ ภาระหนี้เมื่อเทียบกับรายได้ (DTI) และ ระดับรายได้ (Income)
 
-![Million borrowers. One massive customer opportunity. Too large to ignore](<1.2 Million borrowers. One massive customer opportunity. Too large to ignore..png>)
+![Debt-to-Income](<Debt-to-Income.png>)
 
 
 ตัวแปรแรกที่เรานำมาใช้คือ **Debt-to-Income Ratio หรือ DTI** ซึ่งสะท้อนสัดส่วนภาระชำระหนี้เมื่อเทียบกับรายได้
