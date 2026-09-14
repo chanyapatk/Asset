@@ -13,10 +13,10 @@
 
 ## Contents 
 
-1. [How Large Is the Mortgage Customer Segment — and Why Should We Care?](#mortgage-overview)
+1. [HOW LARGE IS THE MORTGAGE CUSTOMER SEGMENT - AND WHY SHOULD WE CARE?](#mortgage-overview)
 2. [WHY MORTGAGE CUSTOMERS ARE GOOD OPPORTUNITY](#mortgage-opportunity)
 3. [WHICH MORTGAGE BORROWERS SHOULD WE FOCUS ON?](#priority-segment)
-4. [ทWHO ARE WE FOCUSING ON?](#borrower-profile)
+4. [WHO ARE WE FOCUSING ON?](#borrower-profile)
 
 ---
 
