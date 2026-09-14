@@ -34,6 +34,3 @@ To keep this repository lightweight and reproducible:
 - Only smaller cleaned, sampled, or processed datasets may be added to this folder when needed.
 - Any processed file added later should include a short description of how it was created from the original FHFA data.
 
-## Notes
-
-The data in this repository are used for academic analysis and borrower segmentation. The FHFA PUDB is not a bank customer database, and each record should be interpreted as a mortgage record rather than a unique individual customer.
