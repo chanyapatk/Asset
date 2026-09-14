@@ -40,17 +40,15 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 
 ## How Large Is the Mortgage Borrower Segment — and Why Should We Care?
 
-**Figure 1. Mortgage Records by GSE, 2024**
-
 ![Million borrowers. One massive customer opportunity. Too large to ignore](<1.2 Million borrowers. One massive customer opportunity. Too large to ignore..png>)
+<p align="center"><em>Figure 1. Mortgage Records by GSE, 2024</em></p>
 
 เมื่อมองจากข้อมูลทั้งหมดที่มี เราพบรายการสินเชื่อกว่า 2.01 ล้านรายการ จาก Fannie Mae และ Freddie Mac
 ตัวเลขนี้ทำให้เราเห็นก่อนว่า กลุ่มที่กำลังพูดถึงมีขนาดใหญ่พอที่จะมีความหลากหลายอยู่ภายในข้อมูลนั้น
 แต่ความน่าสนใจไม่ได้อยู่ที่ “จำนวน” เพียงอย่างเดียว อีกด้านหนึ่งที่ควรมองต่อคือ สินเชื่อเหล่านี้มีกรอบเวลายาวนานแค่ไหน
 
-**Figure 2. Distribution of Original Mortgage Terms**
-
 ![The 20-year mortgage](<2.The_20-year_mortgage.png>)
+<p align="center"><em>Figure 2. Distribution of Original Mortgage Terms</em></p>
 
 เมื่อดูระยะเวลาสัญญากู้ พบว่าประมาณ 93% ของข้อมูลที่มีอายุสัญญาเงินกู้มากกว่า 20 ปี
 
@@ -69,9 +67,8 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 บางคนอาจมีภาระหนี้คิดเป็นสัดส่วนสูงเมื่อเทียบกับรายได้ ขณะที่บางคนมีภาระต่ำกว่า หรือมีฐานรายได้สูง
 เราจึงลองมองผู้กู้ผ่านสองมิติพื้นฐานก่อน คือ ภาระหนี้เมื่อเทียบกับรายได้ (DTI) และ ระดับรายได้ (Income)
 
-**Figure 3. Mortgage Records by Debt-to-Income Ratio**
-
 ![Debt-to-Income](<3.Debt-to-Income.png>)
+<p align="center"><em>Figure 3. Mortgage Records by Debt-to-Income Ratio</em></p>
 
 เมื่อดูจาก Debt-to-Income Ratio หรือ DTI เราเห็นว่าผู้กู้มีระดับภาระหนี้แตกต่างกัน โดย 38.4% อยู่ในกลุ่ม DTI ต่ำกว่า 36%, 61.4% อยู่ระหว่าง 36% ถึงต่ำกว่า 50% และมีเพียง 0.2% ที่มี DTI ตั้งแต่ 50% ขึ้นไป
 
@@ -80,9 +77,8 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 ดังนั้น DTI จึงถูกใช้เป็น สัญญาณแรกในการมองความแตกต่างด้านภาระหนี้ ไม่ใช่ตัวตัดสินว่าผู้กู้พร้อมสำหรับผลิตภัณฑ์อื่น
 และเพราะภาระหนี้เป็นเพียงแค่มิติเดียว เราจึงนำระดับรายได้เข้ามาดูควบคู่กัน
 
-**Figure 4. Income Relative to Area Median Income (AMI)**
-
 ![Income-Level](<4. Income-Level.png>)
+<p align="center"><em>Figure 4. Income Relative to Area Median Income (AMI)</em></p>
 
 รายได้ในที่นี้คือ รายได้เมื่อเทียบกับเกณฑ์รายได้เฉลี่ยของท้องถิ่น (AMI)
 จากกราฟ เราพบว่า 48.5% ของผู้กู้อยู่ในกลุ่ม **รายได้ตั้งแต่ 120%** ขึ้นไป ขณะที่ **24.8%** อยู่ในช่วง 80% ถึงต่ำกว่า 120% และ 26.7% อยู่ในกลุ่มต่ำกว่า 80% ของ AMI
@@ -101,9 +97,8 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 
 และเมื่อนำ DTI และรายได้มาพิจารณาร่วมกัน เพื่อดูว่าในกลุ่มผู้กู้ทั้งหมด มีกลุ่มไหนที่มีลักษณะทางการเงินน่าสนใจมากกว่าเมื่อเทียบกับกลุ่มอื่น
 
-**Figure 5. Priority Segment: Income × DTI**
-
 ![High-income-Low-burden](<5. High-income-Low_burden.png>)
+<p align="center"><em>Figure 5. Priority Segment: Income × DTI</em></p>
 
 จากการแบ่งกลุ่มตามระดับรายได้และ DTI พบว่า กลุ่มที่มี **DTI ต่ำกว่า 36% และมีรายได้ตั้งแต่ 120% ของ AMI ขึ้นไป** มีจำนวนประมาณ **473,098 รายการ หรือ 23.5%** ของข้อมูลในตารางนี้
 กลุ่มนี้จึงถูกเลือกเป็น **Priority Segment** ของเรา เพราะมีทั้งฐานรายได้ที่ค่อนข้างสูง และภาระหนี้ที่อยู่ในระดับต่ำกว่าเมื่อเทียบกับรายได้
@@ -121,23 +116,20 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 
 จากจุดนี้เป็นต้นไป การวิเคราะห์จะไม่ได้มองผู้กู้ทั้งหมดกว่า 2 ล้านรายการอีกต่อไป แต่โฟกัสเฉพาะกลุ่มที่มี **DTI ต่ำกว่า 36% และรายได้ตั้งแต่ 120% ของ AMI ขึ้นไป** จำนวนประมาณ **473,098 รายการ**
 
-**Figure 6. Age Distribution of the Priority Segment**
-
 ![Sweet-spot](<6.Sweet-spot.png>)
+<p align="center"><em>Figure 6. Age Distribution of the Priority Segment</em></p>
 
 สิ่งแรกที่เห็นคือ ผู้กู้ส่วนใหญ่อยู่ในช่วงอายุ **25–54** ปี คิดเป็นประมาณ **76.8%** และกลุ่มที่มีจำนวนมากที่สุดคือช่วง **35–44 ปี** รองลงมาคือ **25–34 ปี**
 อายุเพียงอย่างเดียวไม่ได้บอกว่าผู้กู้ต้องการผลิตภัณฑ์อะไร แต่ช่วยให้เราเห็นบริบทของกลุ่มที่เลือกชัดขึ้น และตั้งคำถามต่อได้ว่า **ในแต่ละช่วงชีวิตพวกเขากำลังมีเป้าหมายทางการเงินแบบไหน**
 
-**Figure 7. First-Time Homebuyer Status of the Priority Segment**
-
 ![First-time](<7. First-time.png>)
+<p align="center"><em>Figure 7. First-Time Homebuyer Status of the Priority Segment</em></p>
 
 ถัดมาคือสถานะการซื้อบ้านครั้งแรก โดย **34% ถูกจัดเป็น First-Time Homebuyer** และ **66% ถูกจัดเป็น Not First-Time Homebuyer**
 กราฟนี้อาจช่วยให้เราเข้าใจบริบทการถือครองบ้านได้มากขึ้น เพราะผู้ซื้อบ้านครั้งแรกกับผู้ที่เคยซื้อบ้านมาก่อน ซึ่งมีโจทย์ทางการเงินที่แตกต่างกัน
 
-**Figure 8. Borrowing Structure of the Priority Segment**
-
 ![Partner](<8.Partner.png>)
+<p align="center"><em>Figure 8. Borrowing Structure of the Priority Segment</em></p>
 
 อีกมุมหนึ่งที่น่าสนใจคือ ผู้กู้ในกลุ่มนี้ไม่ได้กู้ในรูปแบบเดียวกันทั้งหมด บางรายการเป็นการกู้คนเดียว ขณะที่บางรายการมีผู้กู้ร่วม
 ประมาณ **60.7% ของ Priority Segment ถูกจัดเป็นรายการที่มีผู้กู้ร่วม** เทียบกับประมาณ **39.3% ที่กู้คนเดียว** 
