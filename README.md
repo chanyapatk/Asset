@@ -7,18 +7,20 @@
 
 **ถ้าเรามองผู้กู้สินเชื่อบ้านไม่ใช่แค่ในฐานะ “คนที่มีหนี้บ้าน” แต่เป็นกลุ่มคนที่มีสถานะทางการเงินแตกต่างกัน เราจะค้นพบโอกาสทางการตลาดอะไรได้บ้าง?**
 
-ข้อมูลที่ใช้ใน project นี้มาจาก Public Use Database ของ Federal Housing Finance Agency (FHFA) โดยใช้ข้อมูลของ Fannie Mae และ Freddie Mac ปี 2024 ในระดับรายการสินเชื่อ ไม่ใช่ฐานลูกค้าของธนาคาร จึงเป็นการวิเคราะห์เพื่อค้นหา potential market segments ที่มีลักษณะน่าสนใจ และอาจนำไปเป็นแนวทางในการศึกษาลูกค้าของธนาคารที่มีลักษณะใกล้เคียงกันต่อไป
-
 ก่อนจะมองต่อว่า “โอกาส” อาจอยู่ที่ผู้กู้กลุ่มไหน เรามาดูภาพรวมกันก่อน
 ว่าเรากำลังมองกลุ่มที่ใหญ่แค่ไหน และสินเชื่อบ้านอยู่กับผู้กู้ในกรอบเวลาที่ยาวนานเพียงใด?
 สองเรื่องนี้จะพาไปดูต่อว่า โอกาสทางธุรกิจซ่อนอยู่ตรงไหน
 
-## สารบัญ
+## Contents 
 
 1. [How Large Is the Mortgage Customer Segment — and Why Should We Care?](#mortgage-overview)
 2. [WHY MORTGAGE CUSTOMERS ARE GOOD OPPORTUNITY](#mortgage-opportunity)
 3. [WHICH MORTGAGE BORROWERS SHOULD WE FOCUS ON?](#priority-segment)
 4. [ทWHO ARE WE FOCUSING ON?](#borrower-profile)
+
+---
+
+## Overview
 
 ---
 
