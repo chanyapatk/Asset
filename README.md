@@ -15,7 +15,7 @@
 
 ## How Large Is the Mortgage Borrower Segment — and Why Should We Care?
 
-
+![Million borrowers. One massive customer opportunity. Too large to ignore](<1.2 Million borrowers. One massive customer opportunity. Too large to ignore..png>)
 
 เมื่อรวมข้อมูลตามผลที่บันทึกอยู่ใน Notebook เราพบรายการสินเชื่อประมาณ **2.01 ล้านรายการ** โดยแบ่งเป็น Freddie Mac ประมาณ 1.03 ล้านรายการ และ Fannie Mae ประมาณ 0.98 ล้านรายการ
 
