@@ -1,4 +1,4 @@
-# From a Mortgage to a Broader Banking Relationship
+# Beyond the Mortgage: Unlocking New Opportunities for The Bank
 
 ความสัมพันธ์ระหว่างผู้กู้และผู้ให้กู้อาจไม่ได้สิ้นสุดลงเมื่อสินเชื่อได้รับการอนุมัติ
 การซื้อบ้านเป็นหนึ่งในการตัดสินใจระยะยาวของผู้กู้ ทั้งรายได้ ภาระหนี้ เงินสำรอง การใช้จ่าย และเป้าหมายทางการเงินในอนาคต
