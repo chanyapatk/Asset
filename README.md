@@ -105,7 +105,7 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 
 เมื่อนำ DTI และรายได้มาพิจารณาร่วมกัน เราสามารถมองเห็นได้ชัดขึ้นว่า ในกลุ่มผู้กู้ทั้งหมด มีกลุ่มใดที่มีลักษณะทางการเงินน่าสนใจเมื่อเทียบกับกลุ่มอื่น
 
-<p align="center"><img src="figure5_High income Low burden.png" alt="High-income-Low-burden"></p>
+<p align="center"><img src="figure5_High income Low burden_.png" alt="High-income-Low-burden"></p>
 <p align="center"><em>Figure 5. Priority Segment: Income × DTI</em></p>
 
 จากการแบ่งกลุ่มตามระดับรายได้และ DTI พบว่า กลุ่มที่มี **DTI ต่ำกว่า 36% (Low Burden) และมีรายได้ตั้งแต่ 120% (High Income) ของ AMI ขึ้นไป** มีจำนวนประมาณ **473,098 รายการ หรือ 23.5%** ของข้อมูลในตารางนี้
@@ -131,7 +131,7 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 สิ่งแรกที่เห็นคือ ผู้กู้ส่วนใหญ่อยู่ในช่วงอายุ **25–54 ปี** คิดเป็นประมาณ **76.8%** และกลุ่มที่มีจำนวนมากที่สุดคือช่วง **35–44 ปี** รองลงมาคือ **25–34 ปี**
 อายุเพียงอย่างเดียวไม่ได้บอกว่าผู้กู้ต้องการผลิตภัณฑ์อะไร แต่ช่วยให้เราเห็นโครงสร้างอายุของกลุ่มที่เลือกชัดขึ้น และตั้งคำถามต่อได้ว่า **ในแต่ละช่วงอายุ พวกเขาอาจมีเป้าหมายทางการเงินแบบใดบ้าง**
 
-<p align="center"><img src="figure7_First time.png" alt="First-time"></p>
+<p align="center"><img src="figure7_First time_.png" alt="First-time"></p>
 <p align="center"><em>Figure 7. First-Time Homebuyer Status of the Priority Segment</em></p>
 
 ถัดมาคือสถานะการซื้อบ้านครั้งแรก โดย **34% ถูกจัดเป็น First-Time Homebuyer** และ **66% ถูกจัดเป็น Non First-Time Homebuyer**
