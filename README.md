@@ -143,14 +143,10 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 อีกมุมหนึ่งที่น่าสนใจคือ ผู้กู้ในกลุ่มนี้ไม่ได้กู้ในรูปแบบเดียวกันทั้งหมด บางรายการเป็นการกู้คนเดียว ขณะที่บางรายการมีผู้กู้ร่วม
 ประมาณ **60.7% ของ Priority Segment ถูกจัดเป็นรายการที่มีผู้กู้ร่วม** เทียบกับประมาณ **39.3% ที่กู้คนเดียว** ซึ่งช่วยเปิดอีกมุมหนึ่งของความต้องการทางการเงิน เช่น การบริหารภาระร่วม การจัดการค่าใช้จ่าย หรือการวางแผนเป้าหมายร่วมกัน
 
-Mutual Fund / DCA -> 25 - 54 (Age)
-Brokerage Account -> 25-34 (Age)
-Retirement Investment Account -> 35-54 (Age)
+โดยกลุ่มอายุ 25–54 ปี อาจถูกนำไปสำรวจต่อสำหรับ Mutual Fund / DCA ขณะที่กลุ่ม 25–34 ปี อาจมีโอกาสต่อยอดไปสู่ Brokerage Account และกลุ่ม 35–54 ปี อาจใช้เป็นจุดเริ่มต้นในการพูดคุยเรื่อง Retirement Investment Account
 
-Linked / Joint Transaction Account > With co-borrower
-Shared Savings Goal > Co borrower
-Home Reserve Pocket > Co borrower (so everyone in the mortgage have a money for fixing a house and this money is from borrower and co borrower)
-Automatic contribution จากผู้กู้ร่วม > Coborrower
+อีกลักษณะที่เด่นชัดคือประมาณ 60.7% ของ Priority Segment มีผู้กู้ร่วม ทำให้ mortgage ในหลายกรณีไม่ได้เป็นเพียงภาระของบุคคลเดียว แต่เป็นภาระที่มีมากกว่าหนึ่งคนร่วมรับผิดชอบ
+ตรงนี้จึงเปิดโอกาสให้ธนาคารต่อยอดจาก mortgage ไปสู่ shared banking relationship เช่น Linked / Joint Transaction Account สำหรับจัดการเงินร่วมกัน, Shared Savings Goal สำหรับเป้าหมายทางการเงินร่วม และ Home Reserve Pocket สำหรับสะสมเงินค่าซ่อมหรือดูแลบ้าน โดย borrower และ co-borrower สามารถนำเงินเข้าร่วมกันผ่าน Automatic Contribution
 
 ---
 ## Summary 
