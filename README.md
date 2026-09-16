@@ -16,7 +16,8 @@
 3. [Why Could Mortgage Borrowers Represent a Banking Opportunity?](#mortgage-opportunity)
 4. [Which Mortgage Borrowers Should We Focus On?](#priority-segment)
 5. [Who Are We Focusing On?](#borrower-profile)
-6. [Potential Banking Opportunities](#potential-banking-opportunities)
+6. [Summary](#borrower-summary)
+7. [Potential Banking Opportunities](#potential-banking-opportunities)
 
 ---
 
@@ -149,6 +150,7 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 ตรงนี้จึงเปิดโอกาสให้ธนาคารต่อยอดจาก mortgage ไปสู่ shared banking relationship เช่น Linked / Joint Transaction Account สำหรับจัดการเงินร่วมกัน, Shared Savings Goal สำหรับเป้าหมายทางการเงินร่วม และ Home Reserve Pocket สำหรับสะสมเงินค่าซ่อมหรือดูแลบ้าน โดย borrower และ co-borrower สามารถนำเงินเข้าร่วมกันผ่าน Automatic Contribution
 
 ---
+<a name="summay"></a>
 ## Summary 
 
 <p align="center"><img src="figure9_Summary chart.png" alt="Summary chart"></p>
