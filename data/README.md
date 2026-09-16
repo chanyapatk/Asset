@@ -25,5 +25,3 @@ These files contain mortgage-level records for single-family properties and incl
 3. Find **Single-Family Census Tract File**.
 4. Download the **CSV** version.
 5. Use the Fannie Mae and Freddie Mac files listed above for the analysis.
-
-
