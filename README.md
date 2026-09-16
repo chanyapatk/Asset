@@ -111,10 +111,6 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 จากการแบ่งกลุ่มตามระดับรายได้และ DTI พบว่า กลุ่มที่มี **DTI ต่ำกว่า 36% (Low Burden) และมีรายได้ตั้งแต่ 120% (High Income) ของ AMI ขึ้นไป** มีจำนวนประมาณ **473,098 รายการ หรือ 23.5%** ของข้อมูลในตารางนี้
 กลุ่มนี้จึงถูกเลือกเป็น **Priority Segment** ของเรา เพราะมีทั้งฐานรายได้ที่ค่อนข้างสูงเมื่อเทียบกับพื้นที่ และภาระหนี้ที่อยู่ในระดับต่ำเมื่อเทียบกับรายได้
 
-Mutual Fund / DCA -> 25 - 54 (Age)
-Brokerage Account -> 25-34 (Age)
-Retirement Investment Account -> 35-54 (Age)
-
 คำถามถัดไปก็คือ
 
 **แล้วผู้กู้ใน Priority Segment นี้เป็นใคร?**
@@ -147,7 +143,15 @@ Retirement Investment Account -> 35-54 (Age)
 อีกมุมหนึ่งที่น่าสนใจคือ ผู้กู้ในกลุ่มนี้ไม่ได้กู้ในรูปแบบเดียวกันทั้งหมด บางรายการเป็นการกู้คนเดียว ขณะที่บางรายการมีผู้กู้ร่วม
 ประมาณ **60.7% ของ Priority Segment ถูกจัดเป็นรายการที่มีผู้กู้ร่วม** เทียบกับประมาณ **39.3% ที่กู้คนเดียว** ซึ่งช่วยเปิดอีกมุมหนึ่งของความต้องการทางการเงิน เช่น การบริหารภาระร่วม การจัดการค่าใช้จ่าย หรือการวางแผนเป้าหมายร่วมกัน
 
-เมื่อมองทั้งสามมิติร่วมกัน เราจึงเริ่มเห็น Priority Segment ได้ชัดขึ้น ไม่ใช่เพียงว่า **มีรายได้สูงและ DTI ต่ำ** แต่ยังเห็นบริบทของอายุ การซื้อบ้าน และรูปแบบการกู้เพิ่มเติม และเมื่อเราเริ่มรู้แล้วว่า **“เรากำลังโฟกัสใคร”** คำถามถัดไปก็คือ
+Mutual Fund / DCA -> 25 - 54 (Age)
+Brokerage Account -> 25-34 (Age)
+Retirement Investment Account -> 35-54 (Age)
+
+Linked / Joint Transaction Account > With co-borrower
+Shared Savings Goal > Co borrower
+Home Reserve Pocket > Co borrower (so everyone in the mortgage have a money for fixing a house and this money is from borrower and co borrower)
+Automatic contribution จากผู้กู้ร่วม > Coborrower
+ 
 
 **กลุ่มนี้อาจมีความต้องการทางการเงินอะไร และสามารถนำ insight เหล่านี้ไปต่อยอดเป็น product opportunities ได้อย่างไร?**
 
