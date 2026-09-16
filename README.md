@@ -151,9 +151,6 @@ Linked / Joint Transaction Account > With co-borrower
 Shared Savings Goal > Co borrower
 Home Reserve Pocket > Co borrower (so everyone in the mortgage have a money for fixing a house and this money is from borrower and co borrower)
 Automatic contribution จากผู้กู้ร่วม > Coborrower
- 
-
-**กลุ่มนี้อาจมีความต้องการทางการเงินอะไร และสามารถนำ insight เหล่านี้ไปต่อยอดเป็น product opportunities ได้อย่างไร?**
 
 ---
 ## Summary 
