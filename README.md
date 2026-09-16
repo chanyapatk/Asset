@@ -147,6 +147,9 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 
 **กลุ่มนี้อาจมีความต้องการทางการเงินอะไร และสามารถนำ insight เหล่านี้ไปต่อยอดเป็น product opportunities ได้อย่างไร?**
 
+<p align="center"><img src="figure9_Summary chart.png" alt="Summary chart"></p>
+<p align="center"><em>Figure 9. Potential Cross-Sell Segments Among Mortgage Customers</em></p>
+
 ---
 
 <a name="potential-banking-opportunities"></a>
