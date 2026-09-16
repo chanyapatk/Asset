@@ -214,7 +214,6 @@ Financial journey อาจเป็น
 
 **Shared Mortgage Account**
 - Linked / Joint Transaction Account
-- Automatic Mortgage Payment
 - Shared Savings Goal
 - Home Reserve Pocket
 - Automatic contribution จากผู้กู้ร่วม
