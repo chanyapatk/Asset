@@ -17,7 +17,7 @@
 4. [Which Mortgage Borrowers Should We Focus On?](#priority-segment)
 5. [Who Are We Focusing On?](#borrower-profile)
 6. [Summary](#summary)
-7. [Potential Banking Opportunities](#potential-banking-opportunities)
+7. [Turning Insight to Bank Opportunities](#Turning-insight)
 
 ---
 
