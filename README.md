@@ -151,12 +151,11 @@ FHFA เป็นหน่วยงานของรัฐบาลสหรั
 <p align="center"><img src="figure9_Summary chart.png" alt="Summary chart"></p>
 <p align="center"><em>Figure 9. Potential Cross-Sell Segments Among Mortgage Customers</em></p>
 
-ลูกค้ารายได้สูงและมีภาระทางการเงินต่ำจำนวน 473K ราย สามารถเข้าเกณฑ์ผลิตภัณฑ์ได้หลายประเภท คิดเป็นโอกาสในการ Cross-sell มากกว่า 1 ล้านรายการ กลุ่มลูกค้านี้มีฐานะทางการเงินที่แข็งแกร่งและมีรายได้ส่วนที่สามารถนำไปใช้จ่ายหรือลงทุนต่อได้มากขึ้น จึงมีศักยภาพในการสร้างฐานลูกค้าและยอดผลิตภัณฑ์อย่างต่อเนื่อง
+จาก Priority Segment จำนวนประมาณ 473,098 รายการ เราพบลักษณะที่สามารถนำมาใช้ต่อยอดเป็น potential cross-sell ได้หลายมิติ โดยเฉพาะ ช่วงอายุ และ รูปแบบการกู้ร่วม
 
-โดยกลุ่มอายุ 25–54 ปี อาจถูกนำไปสำรวจต่อสำหรับ Mutual Fund / DCA ขณะที่กลุ่ม 25–34 ปี อาจมีโอกาสต่อยอดไปสู่ Brokerage Account และกลุ่ม 35–54 ปี อาจใช้เป็นจุดเริ่มต้นในการพูดคุยเรื่อง Retirement Investment Account
+ในด้านอายุ กลุ่ม 25–54 ปี เป็นสัดส่วนหลักของ Priority Segment และสามารถใช้เป็นจุดเริ่มต้นในการสำรวจโอกาสด้านการลงทุน เช่น Mutual Fund / DCA โดยกลุ่ม 25–34 ปี อาจพิจารณา Brokerage Account และกลุ่ม 35–54 ปี อาจสำรวจความต้องการด้าน Retirement Investment เพิ่มเติม
 
-อีกลักษณะที่เด่นชัดคือประมาณ 60.7% ของ Priority Segment มีผู้กู้ร่วม ทำให้ mortgage ในหลายกรณีไม่ได้เป็นเพียงภาระของบุคคลเดียว แต่เป็นภาระที่มีมากกว่าหนึ่งคนร่วมรับผิดชอบ
-ตรงนี้จึงเปิดโอกาสให้ธนาคารต่อยอดจาก mortgage ไปสู่ shared banking relationship เช่น Linked / Joint Transaction Account สำหรับจัดการเงินร่วมกัน, Shared Savings Goal สำหรับเป้าหมายทางการเงินร่วม และ Home Reserve Pocket สำหรับสะสมเงินค่าซ่อมหรือดูแลบ้าน โดย borrower และ co-borrower สามารถนำเงินเข้าร่วมกันผ่าน Automatic Contribution
+ขณะเดียวกัน ประมาณ 60.7% ของ Priority Segment เป็นรายการที่มีผู้กู้ร่วม ซึ่งเปิดอีกโอกาสหนึ่งในการไปสู่ shared banking relationship เช่น Linked / Joint Transaction Account, Shared Savings Goal, Home Reserve Pocket และ Automatic Contribution
 
 ---
 
